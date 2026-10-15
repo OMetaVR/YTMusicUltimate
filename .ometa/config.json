@@ -1,0 +1,10 @@
+{
+  "upstream": "dayanch96/YTMusicUltimate",
+  "name": "YTMusicUltimate",
+  "base": {
+    "name": "YouTube Music",
+    "bundleId": "com.google.ios.youtubemusic",
+    "appStoreId": 1017492454,
+    "version": { "from": "any" }
+  }
+}
